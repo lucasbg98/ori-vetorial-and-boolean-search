@@ -1,5 +1,5 @@
 # ori-vetorial-and-boolean-search
-O algoritmo tem como objetivo, a partir de uma coleção de documentos realizar uma busca de uma determinada query através do modleo vetorial ou do modelo booleano. Desta forma, o objetivo é modularizar um sistema que é capaz de efetuar:
+O algoritmo tem como objetivo, a partir de uma coleção de documentos realizar uma busca de uma determinada query através do modelo vetorial ou do modelo booleano. Desta forma, o objetivo é modularizar um sistema que é capaz de efetuar:
 - A retirada de stopwords/pontuações
 - A tokenização dos documentos
 - A criação de um índice invertido
