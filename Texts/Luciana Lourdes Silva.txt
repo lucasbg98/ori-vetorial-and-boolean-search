@@ -1,0 +1,1 @@
+Possui graduação em Ciência da Computação pela Universidade Federal de Uberlândia (2008) e mestrado em Ciência da Computação pela Universidade Federal de Uberlândia (2011). Atualmente é aluna do programa de doutorado na UFMG, atuando principalmente nos seguintes temas: manutenção de software, rastros de execução e recuperação de arquitetura. (Texto informado pelo autor)

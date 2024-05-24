@@ -1,0 +1,1 @@
+Meteorologista pela Universidade de São Paulo (2007), atuando desde então como técnico especialista no Laboratório de Clima e Biosfera LCB-IAG-USP na organização, controle de qualidade e disponibilização da base de dados provenientes de torres micrometeorológicas; com desenvolvimento de programas e scripts nas linguagens Fortran, C++ e R-stat. (Texto informado pelo autor)

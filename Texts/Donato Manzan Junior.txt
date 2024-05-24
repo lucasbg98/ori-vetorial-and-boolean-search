@@ -1,0 +1,1 @@
+Possui graduação em Engenharia Elétrica pela Universidade de São Paulo (2001) e mestrado em Projeto de Circuitos Integrados Analogicos pela Universidade Estadual de Campinas (2004). Tem experiência em projeto de sistemas em FPGA na área de redes SDH, verificação funcional e em projeto de circuitos analogicos CMOS low-voltage e low-power. (Texto informado pelo autor)

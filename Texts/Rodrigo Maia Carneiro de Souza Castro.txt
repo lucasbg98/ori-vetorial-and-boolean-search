@@ -1,0 +1,1 @@
+Graduando em Engenharia da Computação pela Universidade de Pernambuco. Atualmente faz Iniciação Científica na área de Sistemas Distribuídos, onde trabalha em um projeto que visa desenvolver uma infra-estrutura autônoma para tolerância a falhas em grades computacionais. (Texto informado pelo autor)

@@ -1,0 +1,1 @@
+Possui Técnico em Informática pelo Instituto Federal Farroupilha (IFF). Atualmente é graduando em Ciência da Computação na Universidade Federal do Pampa Campus Alegrete (UNIPAMPA) onde é bolsista FAPERGS. Trabalha com Método de Lattice Boltzmann e Processamento Paralelo (Open MP, Pthreads, CUDA). (Texto informado pelo autor)

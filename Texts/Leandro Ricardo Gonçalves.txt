@@ -1,0 +1,1 @@
+Simulação Monte Carlo com aplicações em Radioterapia através do código PENELOPE. Também pesquisa em Dosimetria Gel utilizando géis poliméricos (MAGIC-f gel). Controle de qualidade em IMRT e VMAT. (Texto informado pelo autor)

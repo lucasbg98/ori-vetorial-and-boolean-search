@@ -1,0 +1,1 @@
+Formado em Estatística pela Universidade Estadual Paulista "Júlio de mesquita Filho" ( Unesp/ FCT). Atua na área de Confiabilidade com enfoque Bayesiano, estudando principalmente os seguintes temas: Prioris não-informativas, Métodos de Monte Carlo via Cadeias de Markov, dados completos e censurados. (Texto informado pelo autor)

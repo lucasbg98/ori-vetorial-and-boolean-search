@@ -1,0 +1,1 @@
+Mestrado em Engenharia Cilvil, Petróleo e Gás, na linha de pesquisa IMAGEAMENTO GEOFÍSICO pela COPPE/UFRJ, tendo atuado no desenvolvimento de rotinas em paralelo para processamento sísmico, usando MPI e linguagem FORTRAN. Graduado em física pela Universidade Federal Fluminense (UFF) e atualmente cursando doutorado na COPPE/UFRJ. (Texto informado pelo autor)
